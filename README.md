@@ -3,7 +3,7 @@
 1. [terminal을 iterm 설치](https://www.iterm2.com/downloads.html)
 2. [oh my zsh 설치](http://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
 3. .zshrc 수정
-* => 현재 설정한 테마는 "bullet_train"
+* => 현재 설정한 테마는 "bullet-train"
 * => 설정 방법: 
   * (1) 테마 다운로드:[링크](https://raw.githubusercontent.com/caiogondim/bullet-train-oh-my-zsh-theme/master/bullet-train.zsh-theme) - 여기에 더 많은 테마들이 있음.
   * (2) $ZSH_CUSTOM/themes/ 이 경로로 해당 bullet-train.zsh-theme 파일을 옮기기
